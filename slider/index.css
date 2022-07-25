@@ -1,0 +1,16 @@
+.carousel-inner{
+padding: 20px;
+margin-top: 10px;
+
+}
+*{
+    display: flex;
+    text-decoration: none;
+}
+#pills-tab{
+    justify-content: space-between;
+
+}
+.top{
+    color: white;
+}
